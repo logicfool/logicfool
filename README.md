@@ -43,7 +43,7 @@ When not optimizing gas costs, I am likely exploring the Lands Between in **Elde
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logicfool&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Amit's GitHub stats" />
+  <img src="https://githubstats-rosy.vercel.app/api?username=logicfool&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Amit's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicfool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
